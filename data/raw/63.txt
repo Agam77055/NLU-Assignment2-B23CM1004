@@ -1,0 +1,23 @@
+SOURCE: https://iitj.ac.in/aiot-fab-facility/en/aiot-fab-facility
+
+Welcome To The Artificial Intelligence of Things (AIOT) Fab Facility
+Artificial Intelligence of Things (AIOT) is a new technology vertical that has leveraged the convergence of Artificial Intelligence (AI), the Internet of Things (IoT), along with mobile communication technologies, and has led to a massive growth in the intelligent devices that are connected together to solve problems collaboratively.
+Artificial Intelligence of Things (AIoT) initiative at IIT Jodhpur aims to create facilities for End-to-End Design, Development, Prototyping, and Delivery of AIOT systems for start-ups, MSMEs, and end-user industries, catering to applications of Industry 4.0, agriculture, healthcare, infrastructure, energy, environment, and water management.
+Two important facilities are created for the development of AIOT technologies by faculty and Students of IIT Jodhpur, with participation of industry and other academic partners
+The Fab is equipped with a set of instruments for the development & characterization of sensors of various kinds that are the foundation of an IoT ecosystem, providing devices with the ability to collect data. The Fab Facility is undergoing further updates with the addition of new instruments. The AIoT Fab also focuses on the development of new sensing materials and targets applications based on photonics, biotechnology, and solar cells. It also envisions developing flexible sensors that can be used for making wearable devices, along with other inertial sensors, utilising MEMS technology.
+AIoT Electronic Manufacturing Unit (EMU)
+The AIoT EMU Facility is to be equipped with EDA CAD software for designing targeted sensors, signal conditioning & interface circuit, fabless VLSI/FPGA design, & PCB design. The EMU facility will also house Chip assembly/packaging, Electronic component & assembly, along with hardware and software platforms that are required for developing IoT-enabled AI applications. The EMU will also facilitate the commercialization of products with facilities of prototyping, limited manufacturing, and pilot production, in line with stakeholders’ strategy/ direction. The AIoT initiative at IIT Jodhpur is also supported by the AIOT - Innovation Hub Foundation (IHF), which is working as a joint venture Section-8 company between RISL (RajCOMP Info Services Ltd), JCKIF (Jodhpur City Knowledge and Innovation Foundation), and IIT Jodhpur.
+To be a nationally leading hub for innovation, research, and education in Artificial Intelligence of Things (AIoT) by integrating advanced semiconductor fabrication, smart sensor systems, and intelligent computing.
+The AIoT Fab Facility envisions enabling the next generation of intelligent, connected technologies —empowering academia, startups, and industry with state-of-the-art infrastructure for design, prototyping, and testing .
+We aspire to drive transformative impact through:
+Development of indigenous smart sensor technologies , including gas sensors, biosensors, and neuromorphic devices.
+Scalable prototyping of MEMS/NEMS electronics.
+Cross-disciplinary collaboration bridging materials science, electronics, AI, and IoT .
+Serving as a training and incubation ground for future technologists and researchers in India’s AIoT ecosystem.
+Our long-term goal is to catalyze a self-reliant semiconductor and sensor ecosystem in India , aligned with national missions such as Digital India, Make in India , and Semiconductor Mission .
+The AIoT Fab (Artificial Intelligence of Things Fabrication Facility) is part of the AIoT Innovation Hub at IIT Jodhpur.
+It is a state-of-the-art facility for developing, fabricating, and deploying advanced AIoT systems.
+Equipped with tools for creating MEMS sensors, associated electronics, and other intelligent systems.
+Provides an ecosystem for faculty, students, and industry partners to co-create AIoT technologies and products.
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur. N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .

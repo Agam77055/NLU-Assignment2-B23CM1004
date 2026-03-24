@@ -1,0 +1,19 @@
+Query: research
+  Gensim CBOW: administrative(0.999), security(0.999), credit(0.999)
+  Gensim SG  : excellence(0.962), development(0.956), innovation(0.955)
+  Scratch    : cities(0.357), visits(0.343), intended(0.331)
+
+Query: student
+  Gensim CBOW: campus(0.996), entrepreneurship(0.996), school(0.996)
+  Gensim SG  : during(0.972), paid(0.960), campus(0.908)
+  Scratch    : associated(0.331), assignment(0.301), rather(0.278)
+
+Query: phd
+  Gensim CBOW: provides(0.990), through(0.990), week(0.989)
+  Gensim SG  : mathematical(0.990), prestigious(0.990), inae(0.989)
+  Scratch    : meticulously(0.365), issues(0.332), skill(0.300)
+
+Query: exam
+  Gensim CBOW: 
+  Gensim SG  : 
+  Scratch    : 

@@ -1,0 +1,58 @@
+CSL 7640: NATURAL LANGUAGE UNDERSTANDING 
+Assignment-2 
+Anand Mishra 
+February 25, 2026 
+Note: 
+• Please read the problem statements carefully. Failure to follow the given instructions may result in zero marks. 
+• Your submitted code and data will be compared against LLM-generated code. 
+• Write detailed and meaningful comments in your code. This is required to demonstrate your understanding of the implementation and to help assess originality. Submissions without proper comments will receive only 50% of the total marks. 
+• The submission guidelines will be shared close to the Deadline. 
+• DEADLINE: March 20, 2026 (Firm Deadline, No Extension) 
+PROBLEM 1: LEARNING WORD EMBEDDINGS FROM IIT JODHPUR DATA 
+Objective: The objective of this assignment is to train Word2Vec models on textual data col lected from IIT Jodhpur sources and analyze the semantic structure captured by the learned embeddings. 
+1
+TASK-1: DATASET PREPARATION 
+Students are required to collect textual data from at least three of the following suggestive sources: IIT Jodhpur official website pages (departments, academic programs, research pages, announcements), Academic regulation documents (must), Institute newsletters or circulars, Faculty profile pages, Course syllabus, etc. (Only consider the English Text, remove text from other languages, if any.). 
+The collected data must be preprocessed to create a clean corpus. Preprocessing steps should include: (i) Removal of boilerplate text and formatting artifacts, (ii) Tokenization, (iii) Lower casing, (iv) Removal of excessive punctuation and non-textual content Students must report the dataset statistics such as total number of documents, total number of tokens, vocabulary size and show a Word Cloud illustrating most frequent words. 
+TASK-2: MODEL TRAINING 
+Train two Word2Vec models: Continuous Bag of Words (CBOW) and Skip-gram with Negative Sampling. For each model, experiment with: (i) Embedding dimension, (ii) Context window size and (iii) Number of negative samples. Show these results formally in the report. 
+TASK-3: SEMANTIC ANALYSIS 
+Using cosine similarity: 
+1. Report the top 5 nearest neighbors for the words: 
+• research 
+• student 
+• phd 
+• exam 
+• exam 
+2. Perform at least three analogy experiments, such as: 
+UG : BTech :: PG :? 
+Discuss whether the results are semantically meaningful. 
+TASK-4: VISUALIZATION 
+Use PCA or t-SNE to project selected word embeddings into 2D space. Visualize clusters for: Provide interpretation of clustering behavior and differences between CBOW and Skip-gram. 
+2
+DELIVERABLES 
+Keep these in place. We will ask for specific files or information close to the deadline. • Source code (well-documented) 
+• Cleaned corpus file 
+• Visualizations 
+• Report 
+PROBLEM 2: CHARACTER-LEVEL NAME GENERATION USING RNN VARIANTS 
+Objective The objective of this assignment is to design and compare sequence models for character-level name generation using recurrent neural architectures. 
+TASK-0: DATASET 
+Generate 1000 Indian names using LLMs. Stores this as TrainingNames.txt. 
+TASK-1: MODEL IMPLEMENTATION 
+Implement from scratch and compare the following models: 
+1. Vanilla Recurrent Neural Network (RNN) 
+2. Bidirectional Long Short-Term Memory (BLSTM) 
+3. RNN with Basic Attention Mechanism 
+For each model: (i) Clearly describe the architecture, (ii) Report number of trainable param eters, (iii) Specify hyperparameters (hidden size, layers, learning rate) 
+TASK-2: QUANTITATIVE EVALUATION 
+For each model, compute: Novelty Rate (Percentage of generated names not appearing in the training set.) and Diversity: Number of unique generated names divided by total generated names. Compare performance across models. 
+TASK-3 QUALITATIVE ANALYSIS 
+Discuss: Realism of generated names and Common failure modes. Provide representative generated samples for each model. 
+3
+DELIVERABLES 
+• Source code for all models 
+• Generated name samples 
+• Evaluation scripts 
+• Report 
+4

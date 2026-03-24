@@ -1,0 +1,99 @@
+Nearest Neighbors — CBOW (dim=100, win=5, neg=5)
+============================================================
+
+'research' -> top 5 neighbors:
+    1. cities               (cos=0.3567)
+    2. visits               (cos=0.3426)
+    3. intended             (cos=0.3312)
+    4. damages              (cos=0.2969)
+    5. example              (cos=0.2915)
+
+'student' -> top 5 neighbors:
+    1. associated           (cos=0.3308)
+    2. assignment           (cos=0.3009)
+    3. rather               (cos=0.2777)
+    4. water                (cos=0.2776)
+    5. utilize              (cos=0.2687)
+
+'phd' -> top 5 neighbors:
+    1. meticulously         (cos=0.3647)
+    2. issues               (cos=0.3316)
+    3. skill                (cos=0.3000)
+    4. ready                (cos=0.2894)
+    5. floppies             (cos=0.2797)
+'exam': NOT IN VOCABULARY
+
+Analogies — CBOW (dim=100, win=5, neg=5)
+============================================================
+
+ug:btech :: pg:?
+  -> 'btech' not in vocabulary
+
+professor:research :: student:?
+    1. intended             (score=0.3568)
+    2. cities               (score=0.3452)
+    3. regarding            (score=0.2834)
+    4. cassettes            (score=0.2659)
+    5. responsibility       (score=0.2517)
+
+hostel:student :: lab:?
+    1. beyond               (score=0.3154)
+    2. regarding            (score=0.3130)
+    3. resource             (score=0.3087)
+    4. simple               (score=0.2647)
+    5. created              (score=0.2586)
+
+lecture:professor :: tutorial:?
+  -> 'lecture' not in vocabulary
+
+============================================================
+
+Nearest Neighbors — Skipgram (dim=100, win=5, neg=5)
+============================================================
+
+'research' -> top 5 neighbors:
+    1. located              (cos=0.3463)
+    2. website              (cos=0.3114)
+    3. audio                (cos=0.3070)
+    4. offered              (cos=0.2888)
+    5. user                 (cos=0.2862)
+
+'student' -> top 5 neighbors:
+    1. hands                (cos=0.3742)
+    2. help                 (cos=0.2881)
+    3. saakshi              (cos=0.2672)
+    4. hydrogen             (cos=0.2618)
+    5. ambulance            (cos=0.2581)
+
+'phd' -> top 5 neighbors:
+    1. vista                (cos=0.3556)
+    2. word                 (cos=0.3474)
+    3. book                 (cos=0.3169)
+    4. also                 (cos=0.3147)
+    5. identification       (cos=0.3075)
+'exam': NOT IN VOCABULARY
+
+Analogies — Skipgram (dim=100, win=5, neg=5)
+============================================================
+
+ug:btech :: pg:?
+  -> 'btech' not in vocabulary
+
+professor:research :: student:?
+    1. audio                (score=0.3378)
+    2. hands                (score=0.2992)
+    3. licensors            (score=0.2686)
+    4. grammatical          (score=0.2658)
+    5. mems                 (score=0.2653)
+
+hostel:student :: lab:?
+    1. single               (score=0.2923)
+    2. multiple             (score=0.2792)
+    3. teachers             (score=0.2777)
+    4. national             (score=0.2771)
+    5. nagaur               (score=0.2753)
+
+lecture:professor :: tutorial:?
+  -> 'lecture' not in vocabulary
+
+============================================================

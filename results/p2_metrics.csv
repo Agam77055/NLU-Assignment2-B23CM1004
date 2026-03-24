@@ -1,0 +1,4 @@
+model,n_generated,novelty_rate,diversity
+VanillaRNN,500,0.824,0.962
+BLSTM,467,1.0,0.9979
+AttnRNN,493,0.9959,0.9757

@@ -1,0 +1,11 @@
+torch
+requests
+beautifulsoup4
+gensim
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+numpy
+pandas
+tqdm
